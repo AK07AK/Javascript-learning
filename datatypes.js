@@ -1,4 +1,5 @@
 /* 
+PRIMITIVE TYPES
 Strings
 numbers
 boolean
