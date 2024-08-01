@@ -1,0 +1,7 @@
+/* 
+Strings
+numbers
+boolean
+undefined
+null
+*/
